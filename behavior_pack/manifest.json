@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Wild Kratts Behavior Pack",
+    "description": "Creature Power Discs and Suits",
+    "uuid": "33a8158a-4d6f-4683-aead-4f91d7eb4b74",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      80
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "21128c91-e6e3-426e-8437-b667e31b7310",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

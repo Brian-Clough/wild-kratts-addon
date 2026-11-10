@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Wild Kratts Resource Pack",
+    "description": "Textures and models for Creature Power Suits",
+    "uuid": "39efdcf7-9b50-43b3-847c-db34e7cbdffe",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      80
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "15db3737-fadd-4c42-8315-6b70cf73d64a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
